@@ -1,0 +1,59 @@
+body {
+    margin:20px;
+	padding: 70px;
+}
+h2 {
+  color: navy;  
+}
+
+input.div1{
+	background-color: #E8EAFE;
+	color: navy;
+	width: 48%;
+	box-sizing: border-box;
+	padding-left: 12px;
+	margin-bottom: 12px;
+	border: none;
+	height: 40px;
+	border-radius: 6px;
+}
+
+#lname, #phone {
+	margin-left: 9px;
+	float: right;
+}
+input.div2 {
+	background-color: #C6CAFC;
+	color: navy;
+	width: 99%;
+	padding-left: 12px;
+	margin-bottom: 12px;
+	border: none;
+	height: 40px;
+	border-radius: 6px;
+}
+input.div3 {
+	background-color: #A3ABFA;
+	color: navy;
+	width: 99%;
+	height: 70px;
+	padding-left: 12px;
+	padding-bottom: 30px;
+	margin-bottom: 12px;
+	border: none;
+	height: 40px;
+	border-radius: 6px;
+}
+input[type=submit] {
+  margin-left: 35%;
+  width: 30%;
+  background-color: #1A2DF3;
+  color: #FFFF;
+  padding: 15px;
+  border: none;
+  border-radius: 34px;
+  cursor: pointer;
+}
+div1{
+	display: inline;
+}
