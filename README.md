@@ -1,3 +1,3 @@
 # Projets
-Meus trabalhos
+Meus trabalhos:
 Esse repositório contém alguns exercícios de estudo.
